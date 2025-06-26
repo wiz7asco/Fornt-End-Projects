@@ -224,10 +224,10 @@ title.innerHTML = 'Hasco'
 header.appendChild(title)
 
 let links = [
-    {href: 'www.facebook.com/wiz7hasco', target: '_blank', text: 'Facebook'},
-    {href: 'www.x.com/wiz7asco', target: '_blank', text: 'Twitter(X)'},
-    {href: 'www.instagram.com/wiz7asco', target: '_blank', text: 'Instagram'},
-    {href: 'www.github.com/wiz7asco', target: '_blank', text: 'Github'}
+    {href: 'https://www.facebook.com/wiz7hasco', target: '_blank', text: 'Facebook'},
+    {href: 'https://www.x.com/wiz7asco', target: '_blank', text: 'Twitter(X)'},
+    {href: 'https://www.instagram.com/wiz7asco', target: '_blank', text: 'Instagram'},
+    {href: 'https://www.github.com/wiz7asco', target: '_blank', text: 'Github'}
 ]
 function nav(links){
     let nav = document.createElement('ul')
