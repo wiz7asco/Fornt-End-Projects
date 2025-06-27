@@ -9,7 +9,7 @@ document.head.innerHTML = `
 
 <!-- Basic SEO Meta Tags -->
 <meta name="description" content="Stay productive with Hasco's To-Do List App. Add, complete, and manage tasks easily with a clean and responsive interface built using JavaScript.">
-<meta name="keywords" content="To-Do App, Task Manager, Productivity Tool, JavaScript App, Hasco, Web Developer, Portfolio, Frontend, Backend, Full-stack Developer, React Developer, Node.js, HTML, CSS">
+<meta name="keywords" content="wiz7asco, To-Do App, Task Manager, Productivity Tool, JavaScript App, Hasco, Web Developer, Portfolio, Frontend, Backend, Full-stack Developer, React Developer, Node.js, HTML, CSS">
 <meta name="author" content="Hasco">
 
 <!-- Open Graph Meta Tags (for Facebook, LinkedIn, etc.) -->
