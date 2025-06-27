@@ -3,7 +3,30 @@ document.documentElement.lang = 'en';
 document.head.innerHTML = `
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Todo List App</title>
+    <meta name="google-site-verification" content="UROF0Z8yrrSKkTKKwGcVyDWvsAHFQkVjAmjb-pQZImk">
+    <!-- Page Title -->
+<title>Hasco's To-Do List App | Organize Your Tasks</title>
+
+<!-- Basic SEO Meta Tags -->
+<meta name="description" content="Stay productive with Hasco's To-Do List App. Add, complete, and manage tasks easily with a clean and responsive interface built using JavaScript.">
+<meta name="keywords" content="To-Do App, Task Manager, Productivity Tool, JavaScript App, Hasco, Web Developer, Portfolio, Frontend, Backend, Full-stack Developer, React Developer, Node.js, HTML, CSS">
+<meta name="author" content="Hasco">
+
+<!-- Open Graph Meta Tags (for Facebook, LinkedIn, etc.) -->
+<meta property="og:title" content="Hasco's To-Do List App | Organize Your Tasks">
+<meta property="og:description" content="Simple and clean To-Do List web app to keep track of your daily tasks.">
+<meta property="og:image" content="https://wiz7asco-todo-list.vercel.app/preview.png">
+<meta property="og:url" content="https://wiz7asco-todo-list.vercel.app">
+<meta property="og:type" content="website">
+
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Hasco's To-Do List App | Organize Your Tasks">
+<meta name="twitter:description" content="A minimal To-Do app to manage tasks and boost your productivity.">
+<meta name="twitter:image" content="https://wiz7asco-todo-list.vercel.app/preview.png">
+
+<!-- Favicon (optional) -->
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 `;
 
 // Create style element with all CSS
