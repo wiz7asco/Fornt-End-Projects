@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wiz7asco-todo-list.vercel.app/sitemap.xml
